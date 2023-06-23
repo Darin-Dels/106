@@ -1,0 +1,38 @@
+.copy_right_footer
+{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+body
+{
+    background-color: lime;
+    font-size: 20px;
+    font-weight: 100;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h4
+{
+    color: red;
+}
+#camera
+{
+    height: 500px;
+    width: 100%;
+    border-color: red;
+    border-width: 5px;
+}
+
+img
+{
+    border-radius: 20px;
+    padding: 10px;
+    box-shadow: 0px 6px 8px 0px black;
+}
+
+img:hover
+{
+    border-radius: 140px;
+}
